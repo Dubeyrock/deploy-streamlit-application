@@ -3,6 +3,9 @@ deploy streamlit application .
 
 https://deploy-app-application-shsjmcni4qjkj7ug456hka.streamlit.app/ 
 
+https://deploy-app-application-jo7p2vgglyvagycwowwmfd.streamlit.app/
+
+
 https://deploy-app-application-xnxjy9tr2qcebnlqxyg7rj.streamlit.app/
 
 
