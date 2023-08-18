@@ -1,7 +1,8 @@
 # deploy-streamlit-application
 deploy streamlit application .
 
-http://localhost:8501/
+https://deploy-app-application-shsjmcni4qjkj7ug456hka.streamlit.app/
+
 
 ![download (2)](https://github.com/Dubeyrock/deploy-streamlit-application/assets/96882359/f4c54995-4e7e-47c6-994f-4746af5ddcf6)
 
