@@ -2,6 +2,8 @@
 deploy streamlit application .
 
 https://deploy-app-application-shsjmcni4qjkj7ug456hka.streamlit.app/
+https://deploy-app-application-xnxjy9tr2qcebnlqxyg7rj.streamlit.app/
+
 
 
 ![download (2)](https://github.com/Dubeyrock/deploy-streamlit-application/assets/96882359/f4c54995-4e7e-47c6-994f-4746af5ddcf6)
